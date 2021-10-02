@@ -3,7 +3,7 @@
 
 int main()
 {
-    int a,b,c,avg;
+    int a,b,c,avg; //declaration of variable
     printf("enter a marks");
     scanf("%d",&a);
     printf(" enter b marks");
